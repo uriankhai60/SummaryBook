@@ -1,8 +1,8 @@
 notebook
 python-dotenv
-numpy<2
-langchain>=0.3.0
-langchain-openai>=0.2.0
+numpy
+langchain
+langchain-openai
 langchain-core
 langchain-community 
 langchain-text-splitters
@@ -10,4 +10,6 @@ langchain-experimental
 langchain-teddynote
 pypdf
 faiss-cpu
-# faiss-gpu
+pandas
+openpyxl # 엑셀
+ipykernel
